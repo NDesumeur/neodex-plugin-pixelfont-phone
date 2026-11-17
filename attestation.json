@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.pixelfont",
+  "repo": "NDesumeur/neodex-plugin-pixelfont-phone",
+  "version": "1.0.0",
+  "sha256": "4cb1a55de226a2b21c800e4c67974e16d8f4c8a843fb51c8137c3305f87a8c9e",
+  "approvedAt": "2026-11-17T18:40:03.480Z",
+  "neobase": ">=4.0.0",
+  "signature": "Q52rSpm1gsr4k1ZrnjHIQt1XGFLg68lxK2FUfEuHuwEAUBuKWK1dnMJgxvWrT//9ziz7HjGOqQg/h8XG5Up3CA=="
+}
